@@ -1,0 +1,116 @@
+{
+  "version": 2,
+  "template_version": "7f09bfc43d72662de3f6",
+  "page_size": 20,
+  "site_id": "1f3fe18e7585bac2afa479a3",
+  "owner": "wbafwstcc",
+  "repo": "wbafwstcc.github.io",
+  "title": "网络加速服务",
+  "mode": "site",
+  "articles": [
+    {
+      "id": "dd5dc90bab517e15e390d40f",
+      "a": "Precision",
+      "b": "首页",
+      "entity": "Precision",
+      "brand": "首页",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "e87779cc3993cbbaabd0ab3a385c249350d0d582e45f11109783a91f92a017b0",
+      "content": {
+        "primary_entity": "Precision",
+        "keyword1": "Precision",
+        "keyword2": "首页",
+        "content": {
+          "AI_DESCRIPTION": "，围绕基础版、旗舰版与团队版三档配置展开，分别对应轻度使用、多设备并发和小团队协作场景。选择时重点关注在线设备数量、每月流量额度和节点线路类型，再按年度订阅节省开支。客户端适配覆盖主流桌面与移动系统，订阅导入后即可按文档完成配置。",
+          "AI_HERO_SUBTITLE": "Precision 三档套餐按需选择",
+          "AI_HERO_INTRO": "Precision 提供基础版、旗舰版与团队版三档加速方案，分别匹配单人轻度使用、多设备并发和团队协作需求。每档套餐在流量额度、设备数量和节点线路上有所区分，可按实际使用强度灵活切换。",
+          "AI_VISUAL_TITLE": "Precision 套餐与设备适配",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖不同设备数量",
+          "AI_HIGHLIGHT_2": "年度订阅节省长期使用开支",
+          "AI_HIGHLIGHT_3": "主流客户端导入订阅即可使用",
+          "AI_FEATURES_TITLE": "套餐选择与设备匹配",
+          "AI_FEATURES_INTRO": "从设备数量、流量需求和线路类型三个角度对比套餐，快速找到适合的配置档位。",
+          "AI_FEATURE_TITLE_1": "按设备数量选档",
+          "AI_FEATURE_TEXT_1": "基础版适合单人或少量设备，旗舰版提升同时在线数量，团队版面向多设备协作。",
+          "AI_FEATURE_TITLE_2": "按流量强度选档",
+          "AI_FEATURE_TEXT_2": "轻度浏览选基础版，日常视频与下载选旗舰版，高频大流量场景选团队版。",
+          "AI_FEATURE_TITLE_3": "按线路需求选档",
+          "AI_FEATURE_TEXT_3": "旗舰版提供 IPLC 专线游戏加速，团队版配备 VIP 专属高带宽节点。",
+          "AI_PLANS_TITLE": "套餐档位对比",
+          "AI_PLANS_INTRO": "基础版、旗舰版和团队版在流量、设备数和线路配置上依次提升，按年度订阅可降低月均支出。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "按设备系统选择对应客户端，在应用内导入订阅配置后即可连接使用。",
+          "AI_GUIDE_TITLE": "配置步骤",
+          "AI_GUIDE_INTRO": "从选套餐到完成订阅导入，三步完成基础配置。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TEXT_1": "根据设备数量与流量需求，在基础版、旗舰版和团队版之间选定档位。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认设备系统版本和客户端类型是否满足对应套餐的使用条件。",
+          "AI_STEP_TITLE_3": "导入订阅配置",
+          "AI_STEP_TEXT_3": "依照所选客户端的使用文档，将订阅信息导入并完成连接配置。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "按需选择 Precision 套餐",
+          "AI_CLOSING_TEXT": "根据设备数量和流量强度选定档位，按年度订阅更省。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_QUESTION_1": "Precision 套餐如何选择？",
+          "AI_FAQ_ANSWER_1": "先统计常用设备数量和月度流量。少量设备、轻度浏览选基础版；多设备追剧或游戏选旗舰版；多人共用、流量需求大选团队版。",
+          "AI_FAQ_QUESTION_2": "一个账号可以同时登录几台设备？",
+          "AI_FAQ_ANSWER_2": "不同套餐支持的设备数不同，基础版适合个人少量设备，旗舰版适合多设备家庭，团队版可满足多人同时使用。超出限制时部分设备会被挤下线。",
+          "AI_FAQ_QUESTION_3": "月付和年付有什么区别？",
+          "AI_FAQ_ANSWER_3": "月付按自然月计费，调整灵活；年付一次性支付全年费用，平均到每月的成本更低。长期使用建议选年付。",
+          "AI_FAQ_QUESTION_4": "订阅链接怎么导入客户端？",
+          "AI_FAQ_ANSWER_4": "购买后获取订阅链接，在对应客户端中选择从链接导入或手动粘贴订阅地址，更新节点后即可连接。不同客户端操作路径略有差异。",
+          "AI_FAQ_QUESTION_5": "团队版适合哪些使用场景？",
+          "AI_FAQ_ANSWER_5": "团队版面向多人协作、小型工作室或家庭多设备场景，提供较大的流量额度与较多设备数，并包含 VIP 节点与专属支持。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "0f9284456c3de4ee5d76b4cc9b18a2eb48cc36f1b0d43b5a407b0d9362dc7ac1",
+    "sitemap.xml": "1dcbc757cff360ad85501cdfd9f55373741811132ca274fba8d8e500e2681a9e",
+    "robots.txt": "9f01414251e41c8e57b8b531bddb80e55147d1b4fb791a0d8dff6b7533607aa0",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "ab83ae90854ac3860b307b2af95ebfaf96c0611c386c96887ef289c4f498cfc0"
+}
